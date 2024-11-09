@@ -35,8 +35,6 @@ Como profesionales en desarrollo, en el momento de armar nuestra estrategia para
 
 Puedes entrar a ver el demo en este vínculo: https://boot-demos-05-2023.netlify.app/
 
-Si necesitas descargar el proyecto, puedes ver el repositorio completo aquí: https://github.com/UDDBootcamp/BOOT-DEMOS-05
-
 La idea es inspirarte con esta demostración de proyecto para conocer todas las características que puedes incluir. Todos los temas se vieron durante el bootcamp. Ve con cuidado en cada sección y si tienes dudas, recuerda acerca a tu equipo instruccional para revisarlo. 
 
 ![Banner](./imagenes/demo.png)
