@@ -1,6 +1,6 @@
 <h1 align="center">Comercio electrónico básico</h1>
 
-<p align="center">Se recomienda realizar este proyecto después de la realización de la landing/p>
+<p align="center">Se recomienda realizar este proyecto después de la realización de la landing</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/licencia-MAC-green" alt="Licencia MAC">
