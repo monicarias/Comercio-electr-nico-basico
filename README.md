@@ -1,6 +1,12 @@
-![Banner](./imagenes/banner.png)
+<h1 align="center">Comercio electrónico básico</h1>
 
-# PROYECTO 5: Aplicación de Comercio Electrónico
+<p align="center">Se recomienda realizar este proyecto después de la realización de la landing/p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/licencia-MAC-green" alt="Licencia MAC">
+  <img src="https://img.shields.io/badge/versi%C3%B3n-1.0.0-blue" alt="Versión">
+  <img src="https://img.shields.io/badge/contribuidores-2-brightgreen" alt="Contribuidores">
+</p>
 
 ## **ÍNDICE**
 
@@ -108,22 +114,3 @@ Realizarse de manera individual
 - [ ] Colocar descripción dentro del repositorio
 
 ****
-
-## 6. Criterios de evaluación
-
-A partir de los requisitos, tu % estará definido de esta forma:
-
-| ÁREA       | % DEL TOTAL |
-| ------------- |:-------------:|
-| FRONTEND + BACKEND - FLUJO DE DATOS ENTRE ELLOS      | 70%     |
-| CONTROL DE VERSIONES      | 10%     |
-| DESPLIEGUE | 10%      |
-| ENTREGA A TIEMPO | 10%      |
-
-****
-
-## 7. Entregas
-
-- **Definición de fechas.** Habla con tus coaches sobre el periodo de entregas del proyecto.
-
-- **Cumple con los requisitos y entregables.** En caso de que no logres cumplir con todos, se te asignará un progreso proporcional a lo que lograste. Lo importante es que entregues siempre tu proyecto.
